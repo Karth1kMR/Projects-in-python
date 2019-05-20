@@ -1,3 +1,3 @@
 # Projects-in-python
-Hospital Management\n
+Hospital Management:
 Run login.py
